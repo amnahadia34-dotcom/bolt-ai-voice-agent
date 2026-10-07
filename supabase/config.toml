@@ -1,0 +1,2 @@
+[functions.vapi-agents]
+verify_jwt = true
